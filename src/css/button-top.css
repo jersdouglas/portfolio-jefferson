@@ -13,7 +13,7 @@
 }
 
 .arrow-top {
-	color: black;
+	color: var(--cor-branca);
 }
 
 div a:hover {
