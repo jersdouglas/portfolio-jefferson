@@ -42,3 +42,8 @@
         max-width: 100%;
     }
 }
+@media(max-width: 480px){
+    .sobre-mim .imagem-sobre-mim img{
+        width: 100%;
+    }
+}
